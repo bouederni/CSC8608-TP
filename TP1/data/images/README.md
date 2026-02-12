@@ -1,0 +1,1 @@
+Ce dossier contient 20 images extraites de la base de données **ImageNet**, utilisées à des fins de démonstration pour mon TP.
