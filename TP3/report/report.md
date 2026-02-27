@@ -32,7 +32,16 @@ Voici le fichier ouvert dans Audacity :
 
 On y remarque bien les temps de pause.
 
+## Question 3.d.
+
+En passant de 0.30 à 0.60 : 
+- `num_segments` est passé de 28 à 24
+- total_speech_s a baissé de 41.55s à 39.46s
+- Le ratio a (par conséquent) baissé de 0.687 à 0.653
+
 # Exercice 4 : ASR avec Whisper : transcription segmentée + mesure de latence
+
+
 
 # Exercice 5 : Call center analytics : redaction PII + intention + fiche appel
 
