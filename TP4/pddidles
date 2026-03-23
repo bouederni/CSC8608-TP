@@ -1,0 +1,6 @@
+ckpt = torch.load(args.ckpt, map_location=device)
+model: sage
+device: cuda
+avg_forward_ms: 0.3654
+num_nodes: 2708
+ms_per_node_approx: 0.0001349

@@ -1,0 +1,15 @@
+# TP4/configs/sage_sampling.yaml
+seed: 3333
+device: "cuda"
+epochs: 100
+lr: 0.01
+weight_decay: 0.0005
+
+sage:
+  hidden_dim: 128
+  dropout: 0.5
+
+sampling:
+  batch_size: 1024
+  num_neighbors_l1: 15
+  num_neighbors_l2: 10
